@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuriVegan
-- 👀 I’m interested in JAVA(Android);
+- 👀 I’m interested in Kotlin(Android);
 - 🌱 I’m currently learning JAVA on JavaRush
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
