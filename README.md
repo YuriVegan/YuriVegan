@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @YuriVegan
+- 👋 Hi, I’m @YuriVegan  (Yuri Berezin)
 - 👀 I’m interested in Kotlin(Android);
-- 🌱 I’m currently learning JAVA on JavaRush
+- 🌱 I’m currently learning Android on Kiparo.com
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
